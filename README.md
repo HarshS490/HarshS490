@@ -2,7 +2,7 @@
 ---
 
 ### About Me
-I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Information Technology***. My interests span across web development, machine learning, and algorithmic problem-solving,and exploring the intersection of technology and innovation.
+I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Information Technology***. My interests span across web development, machine learning, algorithmic problem-solving,and exploring the intersection of technology and innovation.
 - 🛠️ I work across various **tech stacks**, building solutions from front-end to back-end.
   
 - 🌱 I'm learning how to create **efficient** and **scalable applications**, focusing on performance and architecture.
