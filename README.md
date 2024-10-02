@@ -2,7 +2,13 @@
 ---
 
 ### About Me
-🌱 I work across various tech stacks and am currently focused on building efficient and scalable applications. I'm also exploring the field of machine learning.
+I'm a passionate tech enthusiast currently pursuing my ***B.Tech*** in ***Information Technology***. My interests span across web development, machine learning, and algorithmic problem-solving,and exploring the intersection of technology and innovation.
+- 🛠️ I work across various **tech stacks**, building solutions from front-end to back-end.
+  
+- 🌱 I'm learning how to create **efficient** and **scalable applications**, focusing on performance and architecture.
+
+- 🤖 I'm exploring the field of **machine learning**, with a keen interest in applying data-driven techniques.
+
 
 ## 🚀 Skills & Technologies
 
@@ -40,5 +46,22 @@
 
 ## 📊 GitHub Stats
 
-| ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshS490&hide=stars,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_rank=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=HarshS490&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) |
-| --- | --- |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HarshS490&hide=stars,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_rank=true" alt="Harsh's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshS490&layout=donut&theme=tokyonight" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=HarshS490&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+
+
+
